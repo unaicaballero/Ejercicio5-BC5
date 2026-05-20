@@ -1,0 +1,3 @@
+Ejercicio 5 - BC5
+Modificar el ejemplo anterior para que los botones tengan diferentes tamaños y colores.
+Al ejecutar la aplicación se abre una ventana de 500x300 píxeles con el título "Ejercicio 5". Contiene tres botones con estilos personalizados: "Rojo" (120x40, fondo rojo), "Azul" (150x60, fondo azul) y "Verde" (100x50, fondo verde), todos con texto en blanco. Los dos primeros se disponen en horizontal con un HBox y el tercero aparece debajo mediante un VBox, ambos centrados con Pos.CENTER.
